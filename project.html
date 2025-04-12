@@ -4,35 +4,120 @@
 	<meta charset="utf-8">
 	<title></title>
 	<style type="text/css">
-		.page1 {
+		.main {
 			width: 1400;
 			background-color: #32495E;
 			margin: auto;
 		}
-		.navtop ul {
-			list-style-type: none;
+		.page1-2 {
+			background-color: red;
+			margin-left: 
 		}
 		.marker {
 			list-style-image: url(marker.png);
+
+		}
+		.first {
+			list-style-type: none;
+			display: flex;
+			justify-content: space-between;
+			
+		}
+		.tulpar {
+			margin-right: 400px;
+			width: 206px;
+			height: 44.87px;
+
+		}
+		.first li {
+			margin-right: 40px;
+		}
+		.nav {			
+			display: flex;
+		}
+		.page2-2 {
+			background-color: white;
+		}
+		.cardio-text {
+			width: 428px;
+			height: 500px;
+			margin-top: 150px;
+			margin-left: 120px;
+			text-align: right;
+		}
+		.cardio {
+			
+		}
+		.cardio-text h5 {
+			width: 220px;
+			height: 102px;
+			margin-left: auto;
+			margin-top: 80px;
+		}
+		.nazv-uslugi {
+			list-style-type: circle;
+		
+		}
+		.nazv-uslugi li {
+			list-style-position: inside;
+		}
+		.page4-4 {
+			width: 450px;
+			height: 500px;
+			margin-top: auto;
+			margin-left: auto;
+		}
+		.trawma {
+
+		}
+		.card-trawm {
+			display: flex;
 		}
 	</style>
 </head>
 <body>
-	<div class="page1">
-		<header class="header1">
-			<img src="Group90.png">
-			<nav class="navtop">
-				<ul>
-					<li><a href="#">Главная</a></li>
-					<li class="marker"><a href="#">Наши услуги</a></li>
-					<li><a href="#">Отчеты</a></li>
-					<li class="marker"><a href="#">О нас</a></li>
-					<li><a href="#">Новости</a></li>
-					<li class="marker"><a href="#">РУС</a></li>
-				</ul>
-			</nav>
-		</header>
-	</div>
+<div class="main">
+	<div class="section1">
+		<div class="nav">	
 
+				<div class="page1-2">
+					<img class="tulpar" src="Group90.png">
+				</div>
+
+				<div class="page2-2">
+						<ul class="first">
+							<li><a href="#">Главная</a></li>
+							<li class="marker"><a href="#">Наши услуги</a></li>
+							<li><a href="#">Отчеты</a></li>
+							<li class="marker"><a href="#">О нас</a></li>
+							<li><a href="#">Новости</a></li>
+							<li class="marker"><a href="#">РУС</a></li>
+						</ul>	
+				</div>
+			
+		</div>
+		<div class="card-trawm">
+			<div class="cardio-text">
+				<h1 class="cardio">Кардио-реаблитационный центр</h1>
+				<h5>
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+				</h5>
+				<ul class="nazv-uslugi">
+					<li>Название услуги</li> 
+					<li>Название услуги</li> 
+					<li>Название услуги</li> 	
+					<li>Название услуги</li> 
+				</ul>
+			</div>
+
+			<div class="page4-4">
+				<h1 class="trawma">
+					Травма-реабилитационный центр
+				</h1>
+			</div>
+		</div>
+		
+	</div>	
+</div>	
 </body>
 </html>
