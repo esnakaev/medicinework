@@ -1,0 +1,422 @@
+		.main {
+			width: 1400;
+			background-color: #32495E;
+			margin: auto;
+		}
+		.page1-2 {
+			background-color: #D8483F; 
+			width: 700px;
+		}
+		.marker {
+			list-style-image: url(marker.png);
+
+		}
+		.first {
+			list-style-type: none;
+			display: flex;
+			justify-content: space-between;
+			
+		}
+		.tulpar {
+			margin-right: 350px;
+			margin-left: 50px;
+			width: 206px;
+			height: 44.87px;
+
+		}
+		.first li {
+			margin-right: 40px;
+		}
+		.nav {			
+			display: flex;
+		}
+		.page2-2 {
+			background-color: white;
+			width: 700px;
+		}
+		.cardio-text {
+			width: 428px;
+			height: 500px;
+			margin-top: 150px;
+			margin-left: 120px;
+			text-align: right;
+			background-color: ;
+		}
+		.cardio {
+			
+		}
+		.cardio-text h5 {
+			width: 220px;
+			height: 102px;
+			margin-left: auto;
+			margin-top: 60px;
+			font-size: 14px;
+		}
+		.nazv-uslugi {
+			list-style-type: circle;	
+		}
+		.nazv-uslugi li {
+			list-style-position: inside;
+		}
+		.page4-4 {
+			width: 450px;
+			height: 500px;
+			margin-top: 150px;
+			margin-left: 100px;
+			background-color: white;
+			color: #32495E;
+		}
+		.trawma {
+		}
+		.card-trawm {
+			display: flex;
+		}
+		.page4-4 h5 {
+			width: 220px;
+			height: 102px;
+			margin-top: 60px;
+			font-size: 14px;
+		}
+		.nazv-uslugi2 {
+			list-style-type: circle;
+		}
+		.color1-2 {
+			background-color: #D8483F;
+			width: 700px;
+		}
+		.color2-2 {
+			background-color: white;
+			width: 700px;
+		}
+		.first li a {
+			text-decoration: none;
+			color: #32495E;
+		}
+		.buttons a {
+			padding: 10px 20px;
+			border-radius: 5px;
+			text-decoration: none;
+			color: white;
+			background: #333;
+		}
+		.buttons {
+			margin-top: 80px;
+			margin-right: 15px;
+		}
+		.blocnot-img {
+
+		}
+		.bed {
+			width: 70%;
+		}
+		.nashi-uslugi {
+			width: 1170;
+			margin-top: 70px;
+			color: white;
+			font-family: Arial;
+		}
+		.add {
+			
+			display: flex;
+			justify-content: space-between;
+			
+		}
+		.add1 {
+			width: 1170px;
+			margin: auto;
+		}
+		.img-2 {
+			width: 100%;
+		}
+		.uslugi {
+			font-size: 20px;
+			font-weight: bold;
+			color: white;
+		}
+		.buttons1 {
+			text-align: center;
+			margin-top: 15px;
+		}
+		.buttons1 a {
+			padding: 10px 20px;
+			border-radius: 5px;
+			text-decoration: none;
+			color: white;
+			background: #333;
+		}
+		.specialisty {
+			font-weight: bold;
+			color: white;
+			font-family: Arial;
+		}
+		.specialisty1 {
+			display: flex;
+			justify-content: space-around;
+		}
+		.specialisty2 {
+			display: flex;
+			justify-content: space-around; 
+		}
+		.specialisty1 img {
+			width: 98px;
+			height: 98px;
+		}
+		.specialisty2 img {
+			width: 98px;
+			height: 98px;
+		}
+		.doctory {
+			font-size: 16px;
+			font-weight: bold;
+			font-family: Arial;
+			color: #32495E;
+
+
+		}
+		.lorem {
+			font-size: 14px;
+			font-family: Arial;
+			width: 214px;
+			color: #32495E;
+		}
+		.doctor {
+			background-color: white;
+			margin-bottom: 0px;
+		}
+		.specialisty1 div {
+			margin-top: 40px;
+		}
+		.specialisty2 div {
+			margin-top: 40px;
+		}
+		.price {
+			width: 1400px;
+			font-family: Arial;
+			padding-left: 65px;
+			background-color: white;
+			padding-top: 30px;
+			padding-bottom: 30px;
+		}
+		.price-list {
+			display: flex;
+			justify-content: space-between;
+			font-family: Arial;
+			margin-bottom: 30px;
+		}
+		.list1 {
+			display: flex;
+			
+		}
+		.list2 {
+			display: flex;
+		}
+		.nazvanie {
+			font-size: 14px;
+			margin-right: 300px;	
+		}
+		.price1 {
+			font-size: 14px;
+			padding-right: 250px;
+		}
+		.nazv-price div {
+			display: flex;
+			margin-bottom: 10px;
+		}
+		.nazvanie1 {
+			font-family: Arial;
+			margin-right: 125px;
+			color: #8093AC;
+			font-size: 16px;
+		}
+		.price2 {
+			font-family: Arial;
+			color: black;
+			font-size: 16px;
+		}
+		.nazv-price {
+			font-weight: bold;
+			margin-right: 190px;
+		}
+		.rod-nazv {
+			display: flex;
+		}
+		.nazv-price2 {
+			font-weight: bold;
+
+		}
+		.nazv-price2 div {
+			display: flex;
+			margin-bottom: 10px;
+		}
+		.otchety {
+			margin-left: 60px;
+			padding-bottom: 30px;
+
+		}	
+		.otchety h1 {
+			font-family: Arial;
+			color: white;
+		}
+		.otchety h4 {
+			font-family: Arial;
+			color: white;
+			margin-right: 20px;
+		}
+		.rod-foto {
+			display: flex;
+		}
+		.news {
+			background-color: white;
+			padding-top: 30px;
+			padding-bottom: 30px;
+
+		}
+		.news h1 {
+			font-family: Arial;
+			color: #32495E
+		}
+		.news-rod {
+			margin-left: 60px;
+		}
+		.news-1 {
+			margin-left: px;
+			margin-left: 60px;
+		}
+		.news-img {
+			margin-right: 20px;
+		}
+		.news-rod1 {
+			display: flex;
+		}
+		.otvet {
+			background-color: #32495E;
+		}
+		.otvet h1 {
+			font-family: Arial;
+			color: white;
+			background-color: #49647D;
+			padding-left: 90px;
+		}
+		.otvet-ul {
+			font-family: Arial;
+			font-size: 16px;
+			font-weight: bold;
+			list-style-type: none;
+			color: white;
+		}
+		.otvet-ul li {
+			margin-bottom: 10px;
+			margin-right: 110px;
+		}
+		.otvet-ul2 li {
+			list-style-type: none;
+			margin-bottom: 8px;
+		} 
+		.otvet-rod {
+			display: flex;
+			margin-left: 60px;
+			margin-right: 110px;
+		}
+		.otvet-rod1 {
+			display: flex;
+		}
+		.otvet1 {
+			width: 720px;
+		}
+		.otv {
+			font-family: Arial;
+			font-size: 16px;
+			font-weight: bold;
+			color: white;
+		}
+		.lor {
+			font-family: Arial;
+			font-size: 14px;
+			color: white;
+		}
+		.rek {
+			background-color: white;
+			padding-left: 80px;
+			padding-right: 50px;
+			padding-top: 30px;
+			padding-bottom: 30px;
+		}
+		.rek h1 {
+			font-family: Arial;
+			color: #32495E;
+		}
+		.img-rek {
+			display: flex;
+			justify-content: space-between;
+		}
+		.contact {
+			background-color: white;
+			padding-top: 30px;
+			padding-left: 80px;
+
+
+		}
+		.contact h1 {
+			color: #32495E;
+			font-family: Arial;
+		}
+		.contact img {
+			width: 1170px;
+			height: 360px;
+		}
+		.contact-rod {
+			display: flex;
+		}
+		.contact-rod p {
+			margin-right: 100px;
+			color: #32495E;
+			font-family: Arial;
+			font-size: 14px;
+
+		}
+		.adres {
+			font-weight: bold;
+			font-size: 16px;
+		}
+		footer {
+			padding-left: 80px;
+			background-color: #333333;
+			display: flex;
+			padding-top: 30px;
+			padding-bottom: 30px;
+
+		}
+		footer img {
+			margin-right: 70px;
+		}
+		.f1 {
+			margin-right: 140px;
+			font-family: Arial;
+			font-size: 14px;
+			color: white;
+		}
+		.f2 {
+			font-family: Arial;
+			font-size: 14px;
+			color: white;
+			margin-right: 300px;
+		}
+		.f1 h4 {
+			font-size: 16px;
+		}
+		.f2 h4 {
+			font-size: 16px;
+		}
+		.google-facebook {
+			display: flex;
+		}
+		.google-facebook img {
+			margin: 0;
+		}
+		.f3 p {
+			writing-mode: vertical-rl;
+			transform: rotate(180deg);
+		}
+		.f3 img {
+			margin-left: 10px;
+		}
